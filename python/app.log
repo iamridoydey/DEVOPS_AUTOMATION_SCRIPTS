@@ -1,0 +1,20 @@
+2026-06-16 21:19:57,119 level=INFO app=myapp component=backend Information: Application running normally
+2026-06-16 21:19:58,119 level=WARNING app=myapp component=database Warning: Resource usage high
+2026-06-16 21:19:59,120 level=ERROR app=myapp component=backend Critical error: Database connection lost
+2026-06-16 21:20:00,120 level=INFO app=myapp component=backend Information: Application running normally
+2026-06-16 21:20:01,120 level=WARNING app=myapp component=backend Warning: Resource usage high
+2026-06-16 21:20:02,121 level=ERROR app=myapp component=database Critical error: Database connection lost
+2026-06-16 21:20:03,121 level=INFO app=myapp component=backend Information: Application running normally
+2026-06-16 21:20:04,121 level=WARNING app=myapp component=backend Warning: Resource usage high
+2026-06-16 21:20:05,122 level=ERROR app=myapp component=backend Critical error: Database connection lost
+2026-06-16 21:20:06,122 level=INFO app=myapp component=backend Information: Application running normally
+2026-06-16 21:20:37,897 level=INFO app=myapp component=backend Information: Application running normally
+2026-06-16 21:20:38,897 level=WARNING app=myapp component=database Warning: Resource usage high
+2026-06-16 21:20:39,898 level=ERROR app=myapp component=database Critical error: Database connection lost
+2026-06-16 21:20:40,898 level=INFO app=myapp component=database Information: Application running normally
+2026-06-16 21:20:41,898 level=WARNING app=myapp component=database Warning: Resource usage high
+2026-06-16 21:20:42,899 level=ERROR app=myapp component=database Critical error: Database connection lost
+2026-06-16 21:20:43,899 level=INFO app=myapp component=backend Information: Application running normally
+2026-06-16 21:20:44,899 level=WARNING app=myapp component=backend Warning: Resource usage high
+2026-06-16 21:20:45,900 level=ERROR app=myapp component=database Critical error: Database connection lost
+2026-06-16 21:20:46,900 level=INFO app=myapp component=database Information: Application running normally
